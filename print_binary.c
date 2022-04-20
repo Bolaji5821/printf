@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**
+ /**
  * binary_recursive - numbers in binary in recursive
  * @num: number to print
  * @len: lenght of digit to print

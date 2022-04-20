@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**
+ /**
  * _write - write a character c to the standard output
  * @c: A character
  *

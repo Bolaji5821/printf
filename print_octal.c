@@ -1,5 +1,5 @@
 #include "main.h"
-/**
+ /**
  * print_octal - prints the octal representation of a decimal number
  * @arguments: argument
  *

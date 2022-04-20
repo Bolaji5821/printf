@@ -4,7 +4,7 @@
  * print_char - Print characters (%c)
  * @arg_list: Stores a list of characters
  *
- * Return: num of characters printed
+ * Return: num of characters  printed
  */
 int print_char(va_list arg_list)
 {

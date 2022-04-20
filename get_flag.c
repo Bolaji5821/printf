@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include "main1.h"
 /**
  * get_flag - turns on flags if _printf finds 
  * a flag modifier in the format string 
